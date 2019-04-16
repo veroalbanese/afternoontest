@@ -1,2 +1,2 @@
 GitHub test
-
+How to push and pull the file
